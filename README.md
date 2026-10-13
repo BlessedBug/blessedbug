@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iamshery)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mortalshery@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bahawalpur,_Pakistan-brightgreen?style=for-the-badge&logo=google-maps)](#)[cite: 1]
+[![Location](https://img.shields.io/badge/Location-Bahawalpur,_Pakistan-brightgreen?style=for-the-badge&logo=google-maps)](#)
 
 *Making complex data secure and scalable.*
 
