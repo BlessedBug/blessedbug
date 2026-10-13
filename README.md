@@ -92,7 +92,7 @@ I am currently open to remote roles, consulting, and collaborations regarding:
 
 <div align="center">
   
-  **[Connect with me on LinkedIn](https://linkedin.com/in/iamshery)** | **[Drop me an Email](mailto:mortalshery@gmail.com)**[cite: 1]
+  **[Connect with me on LinkedIn](https://linkedin.com/in/iamshery)** | **[Drop me an Email](mailto:mortalshery@gmail.com)**
 
   ![Profile Views](https://komarev.com/ghpvc/?username=BlessedBug&color=blue&style=flat-square&label=PROFILE+VIEWS)
   
